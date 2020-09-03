@@ -19,7 +19,8 @@ cp .env.example .env
 ```
 
 
-### Additional Front-end work
+### Project Description/Task
+
 
 ### How to use
 Once both node and php servers are running - navigate to the url: http://127.0.0.1:8000/
