@@ -10,7 +10,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.5.0"
+        "php": ">=5.5.0",
+ 	 	"phpunit/php-timer": "^5.0@dev"
     },
     "autoload": {
         "psr-0": {
